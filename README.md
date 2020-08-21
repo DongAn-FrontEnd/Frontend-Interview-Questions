@@ -1,6 +1,6 @@
 # 프론트엔드 면접 질문 정리
 
-## [Notion에서 작성합니다.] (https://www.notion.so/donganstudy/Frontend-Interview-Questions-5a60fe29f5ad4430bd16f1bde8ae6c82)
+## [Notion에서 작성합니다.](https://www.notion.so/donganstudy/Frontend-Interview-Questions-5a60fe29f5ad4430bd16f1bde8ae6c82)
 
 ### [Front-end-Developer-Interview-Questions](https://h5bp.org/Front-end-Developer-Interview-Questions/)
 
